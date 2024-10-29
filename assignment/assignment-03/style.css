@@ -89,6 +89,13 @@
      width:2000px;
      margin-right: 20px;
 	   margin-left: 20px;
+     overflow:hidden;
+    
+     }
+
+     p1{
+
+      float:right;
     
      }
 
@@ -132,5 +139,4 @@
   main {
     height: 60vh;
    }
-
 }
